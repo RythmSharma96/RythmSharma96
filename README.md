@@ -4,7 +4,7 @@
 ## 🚀 About Me
 - 👤 I'm a founder and engineer mainly focusing on backend stuff.
 - 🔭 Things I work with: I'm usually a generalist and am comfortable picking up new languages and tools but here's some of the things I have worked with in the past:
-Python, Javascript, Java, AI Agents, SIP / Telephony, WebRTC, SQL, Livekit, FreeSwitch, Redis, AWS, GCP etc.
+Python, Javascript, Typescript, React, Angularm, Java, AI Agents, SIP / Telephony, WebRTC, SQL, Livekit, FreeSwitch, Redis, AWS, GCP etc.
 - 💼 My Professional experience: I've been a Senior Tech Lead and Software Engineer at multiple companies. You can check my work experience here and my resume here: https://www.rythmsharma.com/cv
 - 💬 You can contact me at : rythmsharma.dev@gmail.com or check out my blog rythmsharma.com
 
