@@ -2,7 +2,7 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=RythmSharma96&label=Profile%20views&color=0e75b6&style=flat)
 ## 🚀 About Me
-- 👤 I'm a founder and engineer mainly focusing on backend systems.
+- 👤 I'm a founder and engineer mainly focusing on backend systems. You can check my portfolio [here](https://rythmsharma.com/)
 - 🔭 Things I work with: I'm usually a generalist and am comfortable picking up new languages and tools but here's some of the things I have worked with in the past:
 Python, Javascript/Typescript, React, Angular, Java, AI Agents, SIP / Telephony, WebRTC, SQL, Livekit, FreeSwitch, Redis, RabbitMQ, Kafka, AWS, GCP etc.
 - 💼 My Professional experience: I've been a Senior Tech Lead and Software Engineer at multiple companies. You can check my work experience here and my resume here: https://www.rythmsharma.com/cv
